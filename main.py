@@ -1,10 +1,20 @@
-from eletronico import Smartphone
+# import documentando_funcoes
+import documentando_classes
 
-galaxy_s = Smartphone('Galaxy S')
-iphone = Smartphone('iphone')
+# import varias_linhas
 
-galaxy_s.ligar()
-iphone.desligar()
+# import uma_linha
+
+# print(dir(uma_linha))
+# print(uma_linha.__doc__)
+# print(uma_linha.__file__)
+# print(uma_linha.__name__)
+# help(uma_linha)
+# help(varias_linhas)
+# help(documentando_funcoes)
+help(documentando_classes)
+
+
 
 
 
